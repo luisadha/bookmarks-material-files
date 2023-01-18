@@ -2,6 +2,10 @@
 
 Bookmark Material files :
 
+![preview](./asset/preview.png)
+
+![preview](./asset/preview_1.png)
+
 A. Penyimpanan 
 
 ° Root ```/```
