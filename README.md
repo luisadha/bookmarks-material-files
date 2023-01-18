@@ -36,7 +36,7 @@ Tampilan menu
 
 • [ fakeroot @ Redmi 10C : /sdcard ]=<?Sentuh menu titik 3, lalu pilih Kunjungi, ketik " /sdcard"  kemudian Oke> ```content://com.android.externalstorage.documents/tree/primary%3ADownload%2F%E3%85%A4%E3%85%A4%2F%E3%85%A4%2F%E3%85%A4%2F%E3%85%A4%2F%E3%85%A4```
 
-## B. Folder Standar 
+## B. Folder Standard
 
 MATI
 
@@ -46,7 +46,7 @@ MATI
 SESUAIKAN 
 
 
-## D.  Folder Semula
+## D.  Default Folder
 
 ERROR [ fakeroot @ Redmi 10C : /sdcard ]=<?Sentuh menu titik 3, lalu pilih Kunjungi, ketik " /sdcard"  kemudian Oke>
 
