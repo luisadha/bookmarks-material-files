@@ -6,7 +6,7 @@ Bookmark Material files :
 
 ![preview](./asset/preview_1.jpg)
 
-A. Penyimpanan 
+## A. Penyimpanan 
 
 ° Root ```/```
 
@@ -14,7 +14,7 @@ A. Penyimpanan
 
 '*' Kartu SD ```content://com.android.externalstorage.documents/tree/5EEC-1F12 Kartu SD```
 
-'*' Zugate ``` ```
+'*' Zugate ``` SESUAIKAN ```
 
 • Android/data DCIM: galat! ```content://com.android.externalstorage.documents/tree/primary%3ADCIM``` 
 
@@ -30,22 +30,22 @@ A. Penyimpanan
 
 • [ fakeroot @ Redmi 10C : /sdcard ]=<?Sentuh menu titik 3, lalu pilih Kunjungi, ketik " /sdcard"  kemudian Oke> ```content://com.android.externalstorage.documents/tree/primary%3ADownload%2F%E3%85%A4%E3%85%A4%2F%E3%85%A4%2F%E3%85%A4%2F%E3%85%A4%2F%E3%85%A4```
 
-B. Folder Standar 
+## B. Folder Standar 
 
 MATI
 
 
-C. Folder markah
+## C. Folder markah
 
 SESUAIKAN 
 
 
-D.  Folder Semula
+## D.  Folder Semula
 
 ERROR [ fakeroot @ Redmi 10C : /sdcard ]=<?Sentuh menu titik 3, lalu pilih Kunjungi, ketik " /sdcard"  kemudian Oke>
 
 
-indikator :
+### indikator :
 
 ° adalah tersembunyi
 
@@ -60,7 +60,7 @@ SESUAIKAN adalah jarang diaplikasikan
 ERROR adalah fitur kunci buatan
 
 
-formasi :
+### formasi :
 
 $1 adalah nama
 
