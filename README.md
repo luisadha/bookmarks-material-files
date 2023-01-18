@@ -2,7 +2,13 @@
 
 Bookmark Material files :
 
+please translate to your original language, this text is still in Indonesian 
+
+Tampilan Beranda 
+
 ![preview](./asset/preview.jpg)
+
+Tampilan menu
 
 ![preview](./asset/preview_1.jpg)
 
