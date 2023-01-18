@@ -2,9 +2,9 @@
 
 Bookmark Material files :
 
-![preview](./asset/preview.png)
+![preview](./asset/preview.jpg)
 
-![preview](./asset/preview_1.png)
+![preview](./asset/preview_1.jpg)
 
 A. Penyimpanan 
 
